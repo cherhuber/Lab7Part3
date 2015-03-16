@@ -85,7 +85,8 @@ test:
 production:
   <<: *default
   database: blog_production
-  username: kids
-  password: password   
-  host: localhost
+  username: kxepatoapumoch
+  password: 7gP2qlMzCjF3vD_NMhxOQ67hBL   
+  host: ec2-23-23-215-150.compute-1.amazonaws.com
+  port: 5432
   
